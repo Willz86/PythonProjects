@@ -18,6 +18,8 @@ The projects you'll find here range from simple scripts to more complex applicat
 
 - **CTF Word Scrapper:** Run the script in your Python environment. It will prompt you for a website URL, scrape the site, and save the wordlist to a file named wordlist.txt in the same directory as the script
 
+- **Hash Reader:** Creating a Python script that identifies hash types and provides corresponding hashcat and John the Ripper commands is a practical tool for security testing and password recovery scenarios. This script will use a series of checks to determine the likely hash type based on the format and length of the hash string provided.
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request, or open an issue with your comments.
