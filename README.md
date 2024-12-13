@@ -16,6 +16,7 @@ The projects you'll find here range from simple scripts to more complex applicat
 
 ## Projects Overview
 
+- **CTF Word Scrapper:** Run the script in your Python environment. It will prompt you for a website URL, scrape the site, and save the wordlist to a file named wordlist.txt in the same directory as the script
 
 ## Contributing
 
